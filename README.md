@@ -7,7 +7,7 @@
 
 A **working, independently developed public portfolio project** demonstrating jQuery DOM manipulation, event delegation, AJAX/REST integration, accessibility, client/server validation, and automated API testing.
 
-![Dashboard](docs/dashboard.png)
+**Interface:** responsive customer/order dashboard with live KPI cards, searchable records, modals and pipeline indicators. Run locally to see the working interface.
 
 ## What it does
 
